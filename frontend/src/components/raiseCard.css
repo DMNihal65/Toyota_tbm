@@ -1,0 +1,51 @@
+.raiseCard{
+width:80vw;
+height:70vh;
+border:1px solid rgb(20,20,20)
+}
+.firstDiv{
+  box-sizing: border-box;
+  width:80vw;
+  height:8vh;
+  border:1px solid rgb(20,20,20);
+  text-align:center;
+ 
+  display: grid;
+  place-items: center;
+}
+
+
+.secondDiv{
+  box-sizing: border-box;
+  width:80vw;
+  height:54vh;
+  border:1px solid rgb(20,20,20)
+}
+.secondDiv >div{
+  width:60vw;
+  border:1px solid rgb(20,20,20)
+}
+
+.thirdDiv{
+  box-sizing: border-box;
+  width:80vw;
+  height:8vh;
+  border:1px solid rgb(20,20,20)
+}
+
+.thirdDiv  :nth-child(2){
+  color:black
+}
+
+.red{
+  background-color: red;
+}
+.white{
+  background-color: white;
+}
+
+.statusImg{
+  display:grid;
+  place-items: center;
+  height:20vh
+}

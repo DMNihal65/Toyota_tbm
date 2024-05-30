@@ -1,0 +1,31 @@
+.loginContent{
+  display: flex;
+  flex-direction: column;
+
+  width: 35vw;
+  /* height: 40vh; */
+  /* background-color: rgb(150, 150, 150); */
+  /* color:white; */
+  align-content: center;
+  /* justify-content: center; */
+  align-items: center;
+  
+ 
+}
+
+
+
+.loginForm{
+  width:30vw;
+  /* display: grid;
+  place-items: center; */
+  /* background-color: red; */
+
+ 
+}
+.loginForm > button{
+  margin-top: 5vh;
+  width: 30vw;
+
+}
+ 

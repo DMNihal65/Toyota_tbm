@@ -1,0 +1,10 @@
+node_modules/
+card2.py
+card_status.xlsx
+frontend_test/
+build/
+.env
+backend/public/
+backend\public/
+
+

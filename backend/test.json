@@ -1,0 +1,120 @@
+{
+  "success": true,
+  "totalDailyStatus": 6,
+  "dailyStatusAll": [
+    {
+      "_id": "62ac7f4f55eb91e89bff8ce8",
+      "checkItem": {
+        "_id": "629f2cfa285486a3d520a7db",
+        "line": "Block",
+        "processNo": "OP10",
+        "pS": "S"
+      },
+      "checkedAt": "2022-06-17T13:12:04.600Z",
+      "entryFor": "2022-6-17",
+      "pS": "S",
+      "result": "NG",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "62ac9df954dffb0602479cb5",
+      "checkItem": {
+        "_id": "629f2cfa285486a3d520a818",
+        "line": "Block",
+        "processNo": "OP20",
+        "pS": "P"
+      },
+      "checkedAt": "2022-06-17T15:29:09.440Z",
+      "entryFor": "2022-6-17",
+      "pS": "P",
+      "result": "NG",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "62aca2f7b13297fed8995769",
+      "checkItem": {
+        "_id": "629f2cfa285486a3d520a825",
+        "line": "Block",
+        "processNo": "OP30",
+        "pS": "S"
+      },
+      "checkedAt": "2022-06-17T15:50:35.235Z",
+      "entryFor": "2022-6-17",
+      "pS": "S",
+      "result": "OK",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "62aca303b13297fed8995781",
+      "checkItem": {
+        "_id": "629f2cfa285486a3d520a8a9",
+        "line": "Block",
+        "processNo": "OP60",
+        "pS": "P"
+      },
+      "checkedAt": "2022-06-17T15:50:35.235Z",
+      "entryFor": "2022-6-17",
+      "pS": "P",
+      "result": "NG",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "62aca30ab13297fed899579a",
+      "checkItem": {
+        "_id": "629f2ce4cdb46e10b57e109c",
+        "line": "Crank",
+        "processNo": "OP210",
+        "pS": "P"
+      },
+      "checkedAt": "2022-06-17T15:50:35.235Z",
+      "entryFor": "2022-6-17",
+      "pS": "P",
+      "result": "OK",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "62aca313b13297fed89957b1",
+      "checkItem": {
+        "_id": "629f2cf1536a7d328c29ab92",
+        "line": "Head",
+        "processNo": "OP550",
+        "pS": "P"
+      },
+      "checkedAt": "2022-06-17T15:50:35.235Z",
+      "entryFor": "2022-6-17",
+      "pS": "P",
+      "result": "OK",
+      "value": "",
+      "user": {
+        "_id": "62985e7157cfa7511dfa3db8",
+        "name": "yousuf"
+      },
+      "__v": 0
+    }
+  ]
+}

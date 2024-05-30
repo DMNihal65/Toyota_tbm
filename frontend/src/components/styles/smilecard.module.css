@@ -1,0 +1,61 @@
+.scBr{
+  border:1px solid black;
+  background-color:red;
+ 
+
+
+}
+.brA{
+  border:1px solid black; 
+}
+.brT{ 
+  border-top:1px solid black; 
+}
+
+
+.scTh{ 
+  padding:5px;
+  text-align: center; 
+}
+.scTd{
+  padding:5px;
+  text-align: center;
+}
+
+.al{
+  align-content: center;
+}
+
+.translate{
+  transition: 0.5s;
+}
+
+.translate:hover{  
+  transform: translateY(-10px);
+  color:black;
+  /* font-size:2rem; */
+ /* transform: rotate(-20deg); */
+}
+
+.center{
+  display: grid;
+  place-items: center;
+}
+
+/* .card{
+  background-color: green !important;
+ -webkit-transition: all 1s ease-in-out !important;
+ -moz-transition: all 1s ease-in-out !important;
+ -o-transition: all 1s ease-in-out !important;
+ transition: all 1s ease-in-out !important; 
+
+} */
+
+.card {  
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.bg{
+  color:black;
+  font-size: .9rem;
+}

@@ -1,0 +1,26 @@
+
+.firstCol {
+  width:15vw;
+align-self: center;
+
+}
+
+.secondCol{
+  width:25vw;
+  
+}
+
+ol > li {
+  margin-bottom:10px;
+}
+
+.imgTagCol {
+  width:11vw;
+align-self: center;
+
+}
+
+
+.datepicker-borderless {
+  border: none;
+}
